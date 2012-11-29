@@ -1,0 +1,807 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-38038.09017646143" y="-29025.60483701903" width="76340.56067752263" height="58051.20967403806"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="0" type="button" x="132.19016229988625" y="0" r="0" s="91.9987475024375">
+      <type>invisible</type>
+      <size>
+        <w>798.7951807228915</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1" type="labelwithplaceholder" x="234.4235612008774" y="22631.241088249084" r="0" s="71.65205739383141" class="strong">
+      <placeholder text="Double-click to add text" x="-125.15" y="-17.5"/>
+    </object>
+    <object id="2_6877478" type="label" x="5382.326924837671" y="17284.862279490088" r="0" s="140.20136584189422" class="head">
+      <textfield>
+        <x>-126.15</x>
+        <y>-15.85</y>
+        <text><![CDATA[Wellesley Code Academy  - Class 1]]></text>
+        <annotations>r0-33 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_8978817" type="image" x="0" y="532.8499851555846" r="0" s="157.77352939598154">
+      <source w="550" h="281" bt="58.8" bl="-0.75">161199529.swf<url>161199529.swf</url>
+      </source>
+      <sourceUrl>plachodelr-dark.swf</sourceUrl>
+    <resource><id>
+        161199529
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/3/3/1b0c975c1a038c819a5a9b512cf3bdafd1938.swf</url></resource></object>
+    <object id="4" type="image" x="-1764.120511268266" y="-3518.826039754022" r="0" s="35.90044957069269">
+      <source w="980" h="285">189420895.jpg<url>189420895.jpg</url>
+      </source>
+      <sourceUrl>wcalogo1.jpg</sourceUrl>
+    <resource><id>
+        189420895
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/b/2/ef95e65fe73dcd9e21ee42871dfa7fcba4640.jpg</url></resource></object>
+    <object id="5" type="button" x="-21648.373946256765" y="8159.651744841899" r="0" s="34.35768751636872" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="6" type="label" x="-21524.837960049896" y="8781.421011832299" r="0" s="14.272755617319502" class="strong">
+      <textfield>
+        <x>-350.45</x>
+        <y>-250</y>
+        <text><![CDATA[Corona is the best solution for developing across platforms and OS versions. Write once and build to iOS, Android, Kindle Fire and NOOK.
+Corona uses APIs to simplify tasks like animating objects, creating UI widgets or enabling physics.
+Changes are instantly viewable in the Corona Simulator and you can quickly build to your own device (if you have a license and a provisioned device)
+Corona is built on industry standards including OpenGL, OpenAL and Lua. 
+Also available: third party services including Facebook, Google Maps, Game Center etc.
+With Corona, you’re the rightful owner of your creation. Use the SDK but own your own content.
+Monetize your app – use an ad partners or in-app purchases.
+Active community and forums for quick help.]]></text>
+        <w>700.95</w>
+        <h>500</h>
+        <annotations>r0-137 { bullet: true; }
+r0-137 { align: left; }
+r0-137 { blockIndent: 36; }
+r137-237 { bullet: true; }
+r137-237 { align: left; }
+r137-237 { blockIndent: 36; }
+r237-386 { bullet: true; }
+r237-386 { align: left; }
+r237-386 { blockIndent: 36; }
+r386-459 { bullet: true; }
+r386-459 { align: left; }
+r386-459 { blockIndent: 36; }
+r459-546 { bullet: true; }
+r459-546 { align: left; }
+r459-546 { blockIndent: 36; }
+r546-641 { bullet: true; }
+r546-641 { align: left; }
+r546-641 { blockIndent: 36; }
+r641-701 { bullet: true; }
+r641-701 { align: left; }
+r641-701 { blockIndent: 36; }
+r701-744 { bullet: true; }
+r701-744 { align: left; }
+r701-744 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="7" type="label" x="-25223.02417685254" y="4333.174500023033" r="0" s="20.5366186069625" class="head">
+      <textfield>
+        <x>-74.05</x>
+        <y>-15.85</y>
+        <text><![CDATA[What is CoronaSDK?]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="8" type="button" x="-18137.44127590626" y="-14359.560558378937" r="0" s="34.35768751636872" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="10" type="label" x="-17997.357744202858" y="-13552.725064168697" r="0" s="14.272803685788721" class="strong">
+      <textfield>
+        <x>-340.75</x>
+        <y>-203.5</y>
+        <text><![CDATA[Lua is a “multi-paradigm” language, providing a small set of general features that can be extended to fit different problem types.
+In general, Lua strives to provide flexible meta-features that can be extended as needed
+It supports only a small number of atomic data structures such as boolean values, numbers (double-precision floating point by default), and strings. 
+Typical data structures such as arrays, sets, lists, and records can be represented using Lua’s single native data structure, the table, which is essentially a heterogeneous associative array.
+By including only a minimum set of data types, Lua attempts to strike a balance between power and size.]]></text>
+        <w>681.55</w>
+        <h>407</h>
+        <annotations>r0-131 { align: left; }
+r131-220 { align: left; }
+r220-370 { align: left; }
+r370-563 { align: left; }
+r563-666 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="11" type="label" x="-21882.512204949082" y="-17122.049647937998" r="0" s="20.5366186069625" class="head">
+      <textfield>
+        <x>-48.3</x>
+        <y>-15.85</y>
+        <text><![CDATA[What is Lua?]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="12" type="placeholder" x="-14749.283785073134" y="-12118.984857813959" r="0" s="7.887235866846126">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="13" type="button" x="-0.5706050171218111" y="-19426.723312092992" r="0" s="34.35768751636872" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="14" type="label" x="-910.85" y="-18450.5" r="0" s="14.27280330657959" class="strong">
+      <textfield>
+        <x>-265.7</x>
+        <y>-172.5</y>
+        <text><![CDATA[CoronaSDK (free or paid) from coronalabs.com
+a Text Editor (TextMate, TextWrangler, SublimeText2
+Dropbox to store your code (or some other safe place like BitBucket or GitHub)
+a Spritesheet editor (on Mac, Zwoptex, on PC Predator)
+an image editor (Fireworks, Photoshop, Illustrator, or some freebie like Inkscape)
+a Mac if you want to compile for iOs
+provisioned devices so you can test]]></text>
+        <w>531.45</w>
+        <h>345</h>
+        <annotations>r0-45 { bullet: true; }
+r0-45 { align: left; }
+r0-45 { blockIndent: 36; }
+r45-97 { bullet: true; }
+r45-97 { align: left; }
+r45-97 { blockIndent: 36; }
+r97-176 { bullet: true; }
+r97-176 { align: left; }
+r97-176 { blockIndent: 36; }
+r176-231 { bullet: true; }
+r176-231 { align: left; }
+r176-231 { blockIndent: 36; }
+r231-314 { bullet: true; }
+r231-314 { align: left; }
+r231-314 { blockIndent: 36; }
+r314-351 { bullet: true; }
+r314-351 { align: left; }
+r314-351 { blockIndent: 36; }
+r351-386 { bullet: true; }
+r351-386 { align: left; }
+r351-386 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="15" type="label" x="-3521.9643673481924" y="-22189.497704160614" r="0" s="20.5366186069625" class="head">
+      <textfield>
+        <x>-59.2</x>
+        <y>-15.85</y>
+        <text><![CDATA[What you need:]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="16" type="placeholder" x="3387.2064824712575" y="-17186.147611528017" r="0" s="7.887235866846126">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="0_16916254" type="button" x="18487.60255474668" y="-14357.563440819013" r="0" s="34.3578797902456" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="1_16916254" type="label" x="17274.95" y="-13385.85" r="0" s="14.2728853225708" class="strong">
+      <textfield>
+        <x>-244.5</x>
+        <y>-172.5</y>
+        <text><![CDATA[print statements
+commenting
+create variables
+create text and place it on the screen
+add a preloading image and animate it
+forward-reference variables
+import widget, create a button
+create an eventListener function
+create launch() function
+remove elements and set to nil for garbage collection]]></text>
+        <w>489</w>
+        <h>345</h>
+        <annotations>r0-17 { bullet: true; }
+r0-17 { align: left; }
+r0-17 { blockIndent: 36; }
+r17-28 { bullet: true; }
+r17-28 { align: left; }
+r17-28 { blockIndent: 36; }
+r28-45 { bullet: true; }
+r28-45 { align: left; }
+r28-45 { blockIndent: 36; }
+r45-84 { bullet: true; }
+r45-84 { align: left; }
+r45-84 { blockIndent: 36; }
+r84-122 { bullet: true; }
+r84-122 { align: left; }
+r84-122 { blockIndent: 36; }
+r122-150 { bullet: true; }
+r122-150 { align: left; }
+r122-150 { blockIndent: 36; }
+r150-181 { bullet: true; }
+r150-181 { align: left; }
+r150-181 { blockIndent: 36; }
+r181-214 { bullet: true; }
+r181-214 { align: left; }
+r181-214 { blockIndent: 36; }
+r214-239 { bullet: true; }
+r214-239 { align: left; }
+r214-239 { blockIndent: 36; }
+r239-292 { bullet: true; }
+r239-292 { align: left; }
+r239-292 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_16916254" type="label" x="15417.842663467523" y="-17119.481925360953" r="0" s="20.536734696850424" class="head">
+      <textfield>
+        <x>-81.25</x>
+        <y>-15.85</y>
+        <text><![CDATA[Let's write some code]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="9" type="placeholder" x="21874.14333136463" y="-12118.31915196065" r="0" s="7.887280307506347">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="3_16916254" type="button" x="21852.935844894935" y="8162.40966909132" r="0" s="34.3578797902456" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="4_16916254" type="label" x="20777.91599263744" y="7806.637440915871" r="0" s="14.272885311491168" class="strong">
+      <textfield>
+        <x>-254.15</x>
+        <y>-79.5</y>
+        <text><![CDATA[1. create a folder with your name: JenLooper (all code goes here)
+2. in that folder, create a folder called class1
+3. create a text file called main.lua in the class1 folder]]></text>
+        <w>508.3</w>
+        <h>159</h>
+        <annotations>r0-66 { align: left; }
+r66-115 { align: left; }
+r115-173 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_16916254" type="label" x="19332.193080923145" y="5400.491184549381" r="0" s="20.536734696850424" class="head">
+      <textfield>
+        <x>-108</x>
+        <y>-15.85</y>
+        <text><![CDATA[Set up your Dropbox projects]]></text>
+        <annotations>r0-28 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_16916254" type="placeholder" x="25239.381520676696" y="10401.653957949682" r="0" s="7.887280307506347">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="7_16916254" type="button" x="-5727.73316186874" y="8162.40966909132" r="0" s="34.3578797902456" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="8_16916254" type="label" x="-6526.294883330715" y="8027.651784214388" r="0" s="14.272885311491168" class="strong">
+      <textfield>
+        <x>-273.3</x>
+        <y>-95</y>
+        <text><![CDATA[open CoronaSDK simulator, create New Project
+create 'New Game' type project, name it anything
+click 'next'
+create the project in your personal folder in Dropbox
+click 'create', then take a look at files.]]></text>
+        <w>546.6</w>
+        <h>190</h>
+        <annotations>r0-45 { bullet: true; }
+r0-45 { align: left; }
+r0-45 { blockIndent: 36; }
+r45-94 { bullet: true; }
+r45-94 { align: left; }
+r45-94 { blockIndent: 36; }
+r94-107 { bullet: true; }
+r94-107 { align: left; }
+r94-107 { blockIndent: 36; }
+r107-161 { bullet: true; }
+r107-161 { align: left; }
+r107-161 { blockIndent: 36; }
+r161-203 { bullet: true; }
+r161-203 { align: left; }
+r161-203 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="2" type="label" x="-7697.55678180942" y="5400.491184549381" r="0" s="20.536734696850424" class="head">
+      <textfield>
+        <x>-134.8</x>
+        <y>-15.85</y>
+        <text><![CDATA[Create your first game project folder]]></text>
+        <annotations>r0-37 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_16916254" type="placeholder" x="-2341.192385250791" y="10401.653957949682" r="0" s="7.887280307506347">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="10_16916254" type="button" x="8744.616988227943" y="8161.458660729451" r="0" s="31.233657843020147" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>366.3</w>
+        <h>274.725</h>
+      </size>
+    </object>
+    <object id="11_16916254" type="label" x="8691.45" y="8039.05" r="0" s="12.975027084350586" class="strong">
+      <textfield>
+        <x>-325.35</x>
+        <y>-95</y>
+        <text><![CDATA[download CoronaSDK to your home computer (free version is ok)
+explore the Sample Apps, especially the Physics and Graphics area
+bookmark and explore the CoronaSDK API pages: http://docs.coronalabs.com/api/]]></text>
+        <w>650.7</w>
+        <h>190</h>
+        <annotations>r0-62 { bullet: true; }
+r0-62 { align: left; }
+r0-62 { blockIndent: 36; }
+r62-128 { bullet: true; }
+r62-128 { align: left; }
+r62-128 { blockIndent: 36; }
+r128-205 { bullet: true; }
+r128-205 { align: left; }
+r128-205 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="12_16916254" type="label" x="5201.6353360824305" y="5650.796585393482" r="0" s="18.669292806762783" class="head">
+      <textfield>
+        <x>-40.95</x>
+        <y>-15.85</y>
+        <text><![CDATA[Homework]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_16916254" type="placeholder" x="11823.031055600113" y="10196.996958475325" r="0" s="7.170076072962433">
+      <type>roundrect</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+  </zui-table>
+  <path>
+    <o>5</o>
+    <o>8</o>
+    <o>13</o>
+    <o>3_16916254</o>
+    <o>0_16916254</o>
+    <o>7_16916254</o>
+    <o>10_16916254</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('YanoneKaffeesatz.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('PTSans-B.swf');
+	fontFamily: strong;
+}
+
+background
+{
+	gradStart: #808080;
+	gradEnd: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #fff808;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #fff;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #fff;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #fff;
+	thickness: 7;
+	gradEndColor: #c5c3c3;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #000;
+	radius: 0;
+	gradEndColor: #000;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	gradStartColor: #fff;
+	color: #fff;
+	gradEndColor: #fff;
+}
+
+line-arrow.style2
+{
+	gradStartColor: #c5c3c3;
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	gradStartColor: #fff808;
+	color: #fff808;
+	gradEndColor: #fff808;
+}
+
+line-arrow.style4
+{
+	gradStartColor: #333;
+	color: #333;
+	gradEndColor: #333;
+}
+
+line-arrow.style5
+{
+	gradStartColor: #000;
+	color: #000;
+	gradEndColor: #000;
+}
+
+circle
+{
+	lockTintAlpha: 0.6;
+	borderAlpha: 1;
+	radius: 0;
+	thickness: 100;
+}
+
+shape
+{
+	lockTintAlpha: 0.6;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	radius: 0;
+	borderAlpha: 1;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradStartColor: #000;
+	gradEndColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	lockTintAlpha: 0.6;
+	borderAlpha: 1;
+	radius: 0;
+	thickness: 100;
+}
+
+ZPoly
+{
+	lockTintAlpha: 0.6;
+	gradEndAlpha: 0.9;
+	gradStartAlpha: 0.8;
+	radius: 0;
+	borderAlpha: 1;
+	thickness: 100;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #000;
+}
+
+.line5
+{
+	gradStartColor: #194a99;
+	color: #194a99;
+	gradEndColor: #194a99;
+}
+
+.poly5
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #194a99;
+}
+
+.line1
+{
+	gradStartColor: #efefef;
+	color: #efefef;
+	gradEndColor: #efefef;
+}
+
+.poly1
+{
+	borderColor: #efefef;
+	borderThickness: 0;
+	gradStartColor: #efefef;
+	gradEndColor: #efefef;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #194a99;
+	gradEndColor: #194a99;
+}
+
+.line4
+{
+	gradStartColor: #318bff;
+	color: #318bff;
+	gradEndColor: #318bff;
+}
+
+.poly4
+{
+	borderColor: #194a99;
+	borderThickness: 0;
+	gradStartColor: #194a99;
+	gradEndColor: #194a99;
+}
+
+ZFrame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradStartColor: #318bff;
+	thickness: 7;
+	gradEndColor: #318bff;
+}
+
+.line2
+{
+	gradStartColor: #7a8082;
+	color: #7a8082;
+	gradEndColor: #7a8082;
+}
+
+.poly2
+{
+	borderColor: #7a8082;
+	borderThickness: 0;
+	gradStartColor: #7a8082;
+	gradEndColor: #7a8082;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #97f1ff;
+	borderThickness: 0;
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+}
+
+ZArrow
+{
+	borderColor: #7f7f7f;
+	borderThickness: 0;
+	gradStartColor: #333;
+	gradEndColor: #333;
+}
+
+.line3
+{
+	gradStartColor: #333;
+	color: #333;
+	gradEndColor: #333;
+}
+
+.poly3
+{
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradStartColor: #318bff;
+	gradEndColor: #318bff;
+}
+
+ZLine
+{
+	color: #333;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #00e1ff;
+}
+
+Grid
+{
+	color: #ccc;
+}
+
+ZPath
+{
+	textColor: #fff;
+	alpha: 1;
+	color: #40abe6;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	radius: 8;
+	fillColor: #40abe6;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	radius: 12;
+	fillColor: #40abe6;
+}
+
+]]></style>
+  <hash>f25e5b63f699c988329ce2750becc2fd</hash>
+<sync><oid>5jycjjvmg15z</oid><hash>f25e5b63f699c988329ce2750becc2fd</hash></sync><config>lJPTe2vw9Xb+jZiDzPIYHMFz24Ih8DMDh7kjO8KQAnfABNwdE7Z18uzii6yXBTC2Jul0WCTNAYYR28Kc3SGqwO3rIHkWpGWFzVeM1I5/sRA8cnfGvHjDurPiRhvuAVKUGix33MvqREwSdNsEaP1VHWj9g7rBENEgvrG89EHv8MaJMVkgxLh+Mu0t6ZAAH1iKVw+KVtK8V2LHkMYjYqBsc6OUcIiL3ZD0a05liLRqgwNCQmnPLKTjvzLvIYhNHfBPrC8FP0fBE0KvTo3+2yd8a6XxsB4mD6a2QkOEb5evIczU9wknEY+bGgGNpgRZIbeHXUCByiYoWlpYrN4WsrZ5VA==</config></zuiprezi>
