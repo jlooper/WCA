@@ -1,0 +1,73 @@
+Game Design Document
+
+
+Space Shooter
+
+
+Developers: <your name>
+
+
+
+Intro
+
+
+You're in a spaceship, flying through space, and need to shoot your way through 
+hordes of aliens! 
+You only have three lives, and a Boss alien lies in wait. 
+Earn points by destroying as many aliens as you can, 
+or go for a quick win by 
+killing the Boss alien.
+
+
+
+Character bios
+
+
+Spaceship: The good guy, stationary at the bottom
+
+Aliens: falling from the top
+
+Boss: stationary at the top, he has health of 50 initially
+
+
+
+Gameplay description
+
+
+Simple shooter game: shoot aliens while avoiding being hit by one. 
+Shoot the Boss; he will die after 50 hits. 
+
+Spaceship has 3 lives; lose one life if hit by alien. 
+Repeat the level whether winning or losing.
+
+
+
+Artistic style outline
+
+
+Retro spritesheet pixel art, stationary background with stars, 
+simple interface with scorekeeping on left and spaceship lives at right.
+
+
+
+Systematic breakdown of components
+
+
+Physics engine, spritesheets, sounds.
+
+
+
+Asset breakdown
+
+
+<list the files here>
+
+
+
+Suggested Project Timeline
+
+
+We intend to release this app for iOs, Android, and Kindle Fire by 9/1/2012
+
+
+
